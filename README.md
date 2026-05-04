@@ -4,23 +4,6 @@ Explore this Multi-Page Grocery Shop UI GitHub repository—an extensive web int
 
 
 
-## User Interface
-
-![Homepage](assets/images/screenshots/homepage.jpeg "Homepage")
-
-![Shop Page](assets/images/screenshots/Shop.jpeg "Shop Page")
-
-![Product Display](assets/images/screenshots/Display.jpeg "Product Display")
-
-![Cart Page](assets/images/screenshots/Cart.jpeg "Cart Page")
-
-![Checkout Page](assets/images/screenshots/Checkout.jpeg "Checkout Page")
-
-![Login Page](assets/images/screenshots/Login.jpeg "Login Page")
-
-![Register Page](assets/images/screenshots/Register.jpeg "Register Page")
-
-
 ## Technologies Used
 
 The following technologies have been used in the creation of this UI:
